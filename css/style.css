@@ -1,0 +1,12 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.contact_form h2 {
+  margin-top: 7rem;
+  font-size: 3rem;
+  font-weight: bold;
+}
